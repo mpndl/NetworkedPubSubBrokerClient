@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PubSubBrokerClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PubSubBrokerClient_jar</output-path>
+    <root id="archive" name="PubSubBrokerClient.jar">
+      <element id="module-output" name="PubSubBrokerClient" />
+    </root>
+  </artifact>
+</component>
